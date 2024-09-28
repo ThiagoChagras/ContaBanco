@@ -1,2 +1,2 @@
 # ContaBanco
-Exercício de Sintaxe DIO
+Exercício de Sintaxe JAVA DIO
